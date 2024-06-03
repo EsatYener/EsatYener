@@ -23,5 +23,7 @@
 <hr>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsatYener&layout=compact&theme=tokyonight)
-![EsatYener's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsatYener&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsatYener&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&card_width=300)
+
+
+![EsatYener's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsatYener&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&card_width=300)
