@@ -8,9 +8,10 @@
 </div>
 <hr>
 
+ ## Languages and Tools :
 
 <div align="center">
-  ## Languages and Tools :
+ 
   <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="40" height="40" alt="c logo">&nbsp;
   <a href="https://www.w3schools.com/cpp/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40">&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40">&nbsp;
@@ -23,10 +24,8 @@
 </div>
 <hr>
 
-<div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsatYener&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&card_width=300)
-</div>
 
-<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsatYener&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&card_width=300)
+
+
 ![EsatYener's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EsatYener&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&card_width=300)
-</div>
