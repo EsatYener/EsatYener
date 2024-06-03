@@ -7,6 +7,7 @@
 </div>
 </div>
 <hr>
+
 ## Languages and Tools :
 <div align:"center">
   <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="40" height="40" alt="c logo">&nbsp;
@@ -23,4 +24,4 @@
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsatYener&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsatYener&layout=compact)
