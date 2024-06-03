@@ -22,6 +22,4 @@
 </div>
 <hr>
 
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsatYener&layout=compact)
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api/top-langs/?username=EsatYener&layout=compact"><img width="40%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsatYener&layout=compact" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsatYener&amp;bg_color=30,e96443,904e95&amp;title_color=fff&amp;text_color=fff&amp;layout=compact&amp;align=center)](https://github.com/ercealtun/github-readme-stats" style="max-width: 100%;"></a></p>
