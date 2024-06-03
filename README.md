@@ -23,4 +23,4 @@
 
 ## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsatYener&layout=compact&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsatYener&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff&hide_border=true)
