@@ -22,6 +22,5 @@
 </div>
 <hr>
 
-## Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsatYener&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsatYener&layout=compact&theme=tokyonight)
